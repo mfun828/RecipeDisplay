@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="iOS/RecipeDisplay.iOS.csproj">
+  <MonoDevelop.Ide.ItemProperties.RecipeDisplay.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6A74248C-7A3E-41C4-94A7-7E877E03C839" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
